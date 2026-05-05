@@ -1,0 +1,27 @@
+----------Using RMSE----------
+
+1. Liner Regression
+    Mean:  5.03773626212499
+    Standard deviation:  1.0562697416102598
+
+2. Decision Tree
+    Mean:  4.503727135866517
+    Standard deviation:  1.0804701134910637
+
+3. Random Forest Regressor
+    Mean:  3.354341078987298
+    Standard deviation:  0.6794284554853472
+
+----------Using MAE----------
+
+1. Liner Regression
+    Mean:  3.5829200192810866
+    Standard deviation:  0.5299101356242162
+
+2. Decision Tree
+    Mean:  3.1732682926829274
+    Standard deviation:  0.7015106586459909
+
+3. Random Forest Regressor
+    Mean:  2.3530035365853657
+    Standard deviation:  0.3414019907795059
